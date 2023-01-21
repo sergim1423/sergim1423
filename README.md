@@ -22,7 +22,8 @@
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   
 - <h5> Check out my Github repositories to see previous projects. </h5>
-- <p>Click here to see repos</p>
+- <p>Click here to see repos </p>
+- https://github.com/sergim1423?tab=repositories
   
   
   </br></br>
